@@ -1,4 +1,4 @@
 # Git-demo
 This is my first git repository
 <br>
-author-harsh
+author-harsh Dhiman
